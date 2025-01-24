@@ -20,7 +20,7 @@ Amazon_Prime_Analysis.pbix: The Power BI report file containing all visualizatio
 View the Report
 You can view the interactive Power BI report by clicking the link below:
 
-[Amazon Prime Analysis - Power BI Report](<iframe title="amazon prime analysis" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjI4YzA3OTEtNDcyOS00N2I2LWJmM2EtNmJlNWU2NzYyOTMwIiwidCI6ImQxYjYxZWVkLWVjZTYtNGZhMC1hMDFmLWU0M2M1Mzc1YjNkNiJ9" frameborder="0" allowFullScreen="true"></iframe>)
+[Amazon Prime Analysis - Power BI Report](https://app.powerbi.com/view?r=eyJrIjoiMjI4YzA3OTEtNDcyOS00N2I2LWJmM2EtNmJlNWU2NzYyOTMwIiwidCI6ImQxYjYxZWVkLWVjZTYtNGZhMC1hMDFmLWU0M2M1Mzc1YjNkNiJ9)
 
 Conclusion
 This project allowed me to enhance my skills in data analysis and visualization using Power BI. I explored how to analyze and present streaming platform data effectively, gained insights into user behavior, and honed my ability to create interactive reports and dashboards.
